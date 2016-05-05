@@ -1,0 +1,27 @@
+h4{
+    font-weight: lighter;
+}
+
+.divider{
+    margin-top:20px; 
+}
+.selfie{
+    height:220px;
+    width:220px;
+    border-radius: 100%;
+    background-color: #9e9e9e;
+    margin-top: 40px;
+    margin-right: 0px;
+}
+u{
+    -moz-text-decoration-color: #424242;
+    text-decoration-color: #424242;
+}
+.profile_name{
+    margin-top: 25px;
+}
+#iconworld{
+    font-size:280px;
+    padding-left: 40%;
+    margin-top: -30px;
+}
